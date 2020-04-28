@@ -12,7 +12,7 @@
 <b>- Pavleen Kaur: </b> <br>
 <b>- Pritish Rawal: </b><br>
 <b>- Shashank Misra: </b><br>
-<b>- Tridha Chaudhuri: </b><br>
+<b>- Tridha Chaudhuri: [https://www.linkedin.com/in/tridha-chaudhuri-928817105/]</b><br>
 
 
 
