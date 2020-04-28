@@ -7,6 +7,8 @@
 
 <b>Project Video link : </b> [video](https://drive.google.com/open?id=1IUuJcpd_mh41e1-sLMjjAty1ZbosZS-5)
 
+<b>Final presentation: </b> [ppt](https://docs.google.com/presentation/d/1333Y1lJgvakPe2_7qqOM3Rt3mWLskpH8d_LpkoVw4DQ/edit?usp=sharing)
+
 <b> LinkedIn links: </b>
 
 [Pavleen Kaur](https://www.linkedin.com/in/pavleen-kaur-usc-ms/) <br>
