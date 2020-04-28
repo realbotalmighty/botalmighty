@@ -1,19 +1,26 @@
-## Welcome to GitHub Pages
+# CSCI 599 : Machine Learning for Games Project 
 
-You can use the [editor on GitHub](https://github.com/realbotalmighty/botalmighty/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Project name : Dynamic level Generation of Games
+### Team Name : BotAlmighty
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<b>Project Report link : </b>
 
-### Markdown
+<b>Project Video link : </b>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*LinkedIn links:*
 
-```markdown
-Syntax highlighted code block
+<b>Pavleen Kaur: </b> <br>
+<b>Pritish Rawal: </b><br>
+<b>Shashank Misra: </b><br>
+<b>Tridha Chaudhuri: </b><br>
 
-# Header 1
-## Header 2
-### Header 3
+
+
+
+
+*Bold* and Italic and `Code` text
+
+[Link](url) and ![Image](src)
 
 - Bulleted
 - List
