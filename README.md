@@ -9,16 +9,7 @@
 
 <b> LinkedIn links: </b>
 
-<b>- Pavleen Kaur: </b> <br>
-<b>- Pritish Rawal: </b><br>
-<b>- Shashank Misra: </b><br>
-<b>- Tridha Chaudhuri: [https://www.linkedin.com/in/tridha-chaudhuri-928817105/]</b><br>
-
-
-
-
-
-*Bold* and Italic and `Code` text
-
-[Link](url) and ![Image](src)
-
+<b>- Pavleen Kaur: </b> https://www.linkedin.com/in/pavleen-kaur-usc-ms/ <br>
+<b>- Pritish Rawal: </b> https://www.linkedin.com/in/pritish-rawal-22692815b/ <br>
+<b>- Shashank Misra: </b> https://www.linkedin.com/in/misrashashank/ <br>
+<b>- Tridha Chaudhuri: </b> https://www.linkedin.com/in/tridha-chaudhuri-928817105/<br>
