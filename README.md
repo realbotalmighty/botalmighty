@@ -7,7 +7,7 @@
 
 <b>Project Video link : </b>
 
-*LinkedIn links:*
+<b> LinkedIn links: </b>
 
 <b>Pavleen Kaur: </b> <br>
 <b>Pritish Rawal: </b><br>
