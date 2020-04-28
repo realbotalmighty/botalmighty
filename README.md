@@ -3,7 +3,7 @@
 ### Project name : Dynamic level Generation of Games
 ### Team Name : BotAlmighty
 
-<b> Project technical paper/report link : </b> [report](https://drive.google.com/file/d/1U89ot_udv8zIUI2YV6zz39sNUkEDmgA2/view?usp=sharing)
+<b> Project Technical paper/Report link : </b> [report](https://drive.google.com/file/d/1U89ot_udv8zIUI2YV6zz39sNUkEDmgA2/view?usp=sharing)
 
 <b>Project Video link : </b> [video](https://drive.google.com/open?id=1IUuJcpd_mh41e1-sLMjjAty1ZbosZS-5)
 
